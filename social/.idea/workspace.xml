@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="418efa59-822d-44a0-911a-de4d2e8c5b0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/django2_by_example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/django2_by_example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/feeds.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/feeds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/0002_comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/migrations/0002_comment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/0003_comment_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/migrations/0003_comment_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/0004_post_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/migrations/0004_post_tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/sitemaps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/sitemaps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/templates/blog/post/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post/latest_posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/templates/blog/post/latest_posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/templates/blog/post/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/templates/blog/post/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post/share.html" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/templates/blog/post/share.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/templates/pagination.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templatetags/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/templatetags/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templatetags/blog_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/templatetags/blog_tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/mysite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/mysite/mysite/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aGkQOkwGUSPzbcePcrGw8kacJa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="418efa59-822d-44a0-911a-de4d2e8c5b0b" name="Default Changelist" comment="" />
+      <created>1586369300651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586369300651</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="138" key="SettingsEditor" timestamp="1586372923965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="128" y="138" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586372923965" />
+  </component>
+</project>
