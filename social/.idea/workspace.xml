@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="418efa59-822d-44a0-911a-de4d2e8c5b0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bookmarks/account/authentication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookmarks/images/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookmarks/images/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookmarks/images/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookmarks/images/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookmarks/images/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookmarks/images/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookmarks/images/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookmarks/images/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookmarks/images/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookmarks/account/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/account/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookmarks/bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/bookmarks/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookmarks/bookmarks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/bookmarks/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +39,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -49,6 +56,9 @@
       <updated>1586369300651</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="128" y="138" key="SettingsEditor" timestamp="1586372923965">
